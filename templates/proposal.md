@@ -1,0 +1,36 @@
+# 提案書テンプレ
+
+- 提案名: 仮題
+- 提案者: Dept-X
+- 対象: Committee-A
+- 部門想定: ADAS開発のデータ収集とアノテーション担当
+- 目的: 短い説明
+- 背景: 短い説明
+- 予算区分: Large
+- 発注予定先: Vendor-A
+- 金額区分: A
+- 内容: 短い説明
+- 月別支出区分: 箇条書き
+  - 月-甲: A
+  - 月-乙: A
+  - 月-丙: A
+  - 月-丁: A
+- クオータ区分: 箇条書き
+  - Q-A: A
+  - Q-B: A
+  - Q-C: A
+  - Q-D: A
+- 項目別予算: 箇条書き
+  - 項目-甲: A
+  - 項目-乙: A
+- 発注会社別予算: 箇条書き
+  - Vendor-A: A
+  - Vendor-B: B
+- 内訳: 箇条書き
+- 期待効果: 箇条書き
+- 想定リスク: 箇条書き
+- 次アクション: 箇条書き
+- 予算根拠ファイル: 箇条書き
+  - basis/annotation_unit_cost.md
+  - basis/driving_distance_cost.md
+  - basis/vehicle_build_cost.md
